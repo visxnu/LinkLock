@@ -1,5 +1,13 @@
-pip --upgrade pip
-flask
-gunicorn
+Flask
+flask-cors
+scikit-learn
 pandas
 numpy
+gunicorn
+werkzeug
+joblib
+requests
+beautifulsoup4
+python-whois
+google
+python-dateutil
