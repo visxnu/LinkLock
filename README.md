@@ -50,7 +50,7 @@ The Flask server will run at `http://127.0.0.1:5000/`
 
 ## 📊 Machine Learning Model
 - **Dataset:** Kaggle’s *Phishing Website Detector*
-- **Algorithm Used:** Random Forest Classifier
+- **Algorithm Used:** Gradient Boosting Classifier
 - **Feature Extraction:** URL-based heuristics
 - **Accuracy:** 95%+ on test data
 
