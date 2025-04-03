@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LinkLoock-Phishing Detector</title>
+    <style>
+      body {
+        width: 280px;
+        padding: 15px;
+        font-family: 'Arial', sans-serif;
+        text-align: center;
+        background: linear-gradient(135deg, #1a1a1a, #2c2c2c);
+        color: #ffffff;
+        border-radius: 10px;
+      }
+      h1 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        text-shadow: 0px 0px 5px rgba(0, 255, 255, 0.7);
+      }
+      p {
+        font-size: 14px;
+        margin: 10px 0;
+        font-weight: bold;
+      }
+      .status-box {
+        padding: 10px;
+        border-radius: 5px;
+        background: rgba(255, 255, 255, 0.1);
+        display: inline-block;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.2);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>LinkLoock-Detector</h1>
+    <div class="status-box">
+      <p id="status">Safe or Not?</p>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>

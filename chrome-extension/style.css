@@ -1,0 +1,17 @@
+body {
+    width: 200px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: red;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+}
