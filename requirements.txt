@@ -4,3 +4,5 @@ pandas
 numpy
 flask_cors
 beautifulsoup4
+requests
+
