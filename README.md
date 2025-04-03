@@ -1,6 +1,7 @@
 # 🌐 LinkLock - Real-Time Phishing Website Detection
 
-![LinkLock Banner](https://your-image-url.com/banner.png)
+![LinkLock Banner](https://raw.githubusercontent.com/visxnu/LinkLock/main/LINKLOOCK.png)
+
 
 🚀 **LinkLock** is a powerful Chrome extension that detects phishing websites in real-time using machine learning. By analyzing URLs and extracting key features, it determines whether a website is safe or potentially harmful. The backend is powered by a Flask API and trained on the Kaggle dataset **"Phishing Website Detector"**.
 
