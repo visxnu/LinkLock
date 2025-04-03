@@ -71,7 +71,7 @@ jupyter_client
 jupyter_core
 kiwisolver
 libclang
-lightgbm=
+lightgbm
 Markdown
 markdown-it-py
 MarkupSafe
