@@ -76,5 +76,5 @@ Contributions are welcome! Feel free to fork, submit issues, or create pull requ
 This project is licensed under the MIT License.
 
 ## ✨ Connect with Me
-🔗 [GitHub](https://github.com/visxnu) | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 📧 Email: vishnuu1690@gmail.com.com
+🔗 [GitHub](https://github.com/visxnu) | 🔗 [LinkedIn](www.linkedin.com/in/visxu) | 📧 Email: vishnuu1690@gmail.com.com
 
