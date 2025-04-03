@@ -119,7 +119,6 @@ python-multipart
 python-whois
 pyttsx3
 pytz
-pywin32
 PyYAML
 pyzmq
 referencing
