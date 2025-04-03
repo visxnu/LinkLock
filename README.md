@@ -61,7 +61,7 @@ The Flask server will run at `http://127.0.0.1:5000/`
 
 ## 🔥 Screenshots
 ![Extension UI](https://raw.githubusercontent.com/visxnu/LinkLock/main/screenshots/extension.png)
-![Flask API](https://raw.githubusercontent.com/visxnu/LinkLock/main/screenshots/flaskapi.png)
+![Flask API](https://raw.githubusercontent.com/visxnu/LinkLock/main/screenshots/faskapi.png)
 
 
 ## 📝 Future Improvements
