@@ -60,8 +60,8 @@ The Flask server will run at `http://127.0.0.1:5000/`
 - **Machine Learning:** Scikit-learn, Pandas, NumPy
 
 ## 🔥 Screenshots
-![Extension UI](https://raw.githubusercontent.com/visxnu/LinkLock/main/screenshot/extension.png)
-![Flask API](https://raw.githubusercontent.com/visxnu/LinkLock/main/screenshot/flaskapi.png)
+![Extension UI](https://raw.githubusercontent.com/visxnu/LinkLock/main/screenshots/extension.png)
+![Flask API](https://raw.githubusercontent.com/visxnu/LinkLock/main/screenshots/flaskapi.png)
 
 
 ## 📝 Future Improvements
