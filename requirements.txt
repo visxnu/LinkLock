@@ -5,4 +5,6 @@ numpy
 flask_cors
 beautifulsoup4
 requests
+googlesearch-python
+
 
